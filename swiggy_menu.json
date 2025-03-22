@@ -1,0 +1,260 @@
+[
+    {
+        "name": "2 Batata Harra Burger (v)+ Fries (medium)",
+        "price": "\u20b9260.0",
+        "description": "Treat yourself to a delicious snack with combo of 2 Batata Harra Burger + Fries",
+        "rating": "3.5"
+    },
+    {
+        "name": "2 Egg Special Burger",
+        "price": "\u20b9135.0",
+        "description": "Pair of Burger rich in protein patty loaded with veggies topped with our signature smoked chilli mayonnaise and onions.",
+        "rating": "No Rating"
+    },
+    {
+        "name": "2 Fries (medium)",
+        "price": "\u20b9250.0",
+        "description": "Double the Savour of crispy and golden potatoes on the outside soft and fluffy from the inside, fried to perfection.",
+        "rating": "No Rating"
+    },
+    {
+        "name": "2 Indiana Fried Chicken Burger (nv)",
+        "price": "\u20b9330.0",
+        "description": "Double the Taste with 2 Indiana Fried Chicken Burger",
+        "rating": "4.0"
+    },
+    {
+        "name": "2 Spicy Dynamite Burger (v)",
+        "price": "\u20b9320.0",
+        "description": "Dive into a mouthwatering experience with 2 Spicy Dynamite Burger",
+        "rating": "No Rating"
+    },
+    {
+        "name": "American Special Burger (nv)+ Lemon Ice Tea (regular)",
+        "price": "\u20b9195.0",
+        "description": "A perfect combination of crispy patty made from Punjabi tadka topped with premium mayonnaise with refreshing zing of lemon in iced tea.",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Bhuna Mediterranean Burger (v)+ Dark Frappe (regular)",
+        "price": "\u20b9290.0",
+        "description": "Pair this savory delight of Bhuna Mediterranean Burger with our rich Dark Frappe , a smooth and indulgent drink made with premium coffee,",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Cheese Burger+ Onion Rings 3 Pcs",
+        "price": "\u20b9240.0",
+        "description": "Tasty cheese burger paired with tasty onion rings",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Chicken Strips 3 Pcs+ Chicken Popcorn 12 Pcs",
+        "price": "\u20b9295.0",
+        "description": "Chicken Strips & Chicken Popcorn a perfect combo is a savory feast that will satisfy all your cravings!",
+        "rating": "3.9"
+    },
+    {
+        "name": "Fries (medium)+onion Rings 12 Pcs",
+        "price": "\u20b9340.0",
+        "description": "Combo of crispy golden fries & onion rings.",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Indiana Fried Chicken Burger (nv) + Veggie Sticks 6 Pcs",
+        "price": "\u20b9265.0",
+        "description": "Indiana Fried Chicken Burger & Veggie Sticks together making this combo a well-rounded and satisfying meal",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Pizza Puff 1 Pc + Minty Green Apple (regular)",
+        "price": "\u20b9150.0",
+        "description": "Crafted with a delectable blend of savory fillings, mozzarella cheese, and  aromatic herbs, all enveloped in a flaky pastry shell for the perfect handheld treatwith the combo of minty Green Apple",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Pizza Puff 1 Pc + Premium Peri Peri Fries",
+        "price": "\u20b9235.0",
+        "description": "A combo thatis a fantastic way to enjoy a flavorful snack that",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Rockstar Wrap +onion Rings 3 Pcs",
+        "price": "\u20b9250.0",
+        "description": "Grab together  wrap made from spicy lemon and premium Indian spices topped with our signature mayonnaise & crispy Onion rings",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Tandoori Chicken Burger (nv)+pizza Puff 1 Pc",
+        "price": "\u20b9215.0",
+        "description": "Complement your Tandoori Chicken Burger with our tasty Pizza Puff",
+        "rating": "No Rating"
+    },
+    {
+        "name": "2 American Special Burger (nv).",
+        "price": "\u20b9196.0",
+        "description": "A perfect combination of crispy patty made from Punjabi tadka topped with premium mayonnaise",
+        "rating": "No Rating"
+    },
+    {
+        "name": "2 Angara Punjab Burger(v).",
+        "price": "\u20b9216.0",
+        "description": "Rajasthani angara spices meet Punjabi flavors topped with our magic mayyonaise and premium veggies",
+        "rating": "No Rating"
+    },
+    {
+        "name": "2 Bhuna Mediterranean Burger(v).",
+        "price": "\u20b9166.0",
+        "description": "Delicious Patty from Costal Mediterranean European flavors with roasted notes of garlic topped with cocktail mayonnaise",
+        "rating": "3.9"
+    },
+    {
+        "name": "2 Classic Fried Chicken Burger (nv).",
+        "price": "\u20b9220.0",
+        "description": "Enjoy twice Crispy Chicken Burger with premium mayonnaise",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Chicken Popcorn",
+        "price": "\u20b90.0",
+        "description": "Juicy & tasty crispy chicken bytes",
+        "rating": "4.1"
+    },
+    {
+        "name": "Chicken Strips",
+        "price": "\u20b90.0",
+        "description": "Baby winglets coated with crispy batter and fried to perfection",
+        "rating": "4.1"
+    },
+    {
+        "name": "Chicken Wings",
+        "price": "\u20b90.0",
+        "description": "Baby winglets coated with crispy batter and fried to perfection .",
+        "rating": "4.0"
+    },
+    {
+        "name": "Chicken Strips With Franc's Hot Sauce",
+        "price": "\u20b90.0",
+        "description": "Baby winglets coated with crispy batter and fried to perfection .Taste best with our signature Franks hot sauce.",
+        "rating": "2.8"
+    },
+    {
+        "name": "Chicken Wings With Franc's\u00a0hot\u00a0sauce",
+        "price": "\u20b90.0",
+        "description": "Baby winglets coated with crispy batter and fried to perfection .Taste best with our signature Franks hot sauce.",
+        "rating": "3.7"
+    },
+    {
+        "name": "Junior Joy Box With Surprise Gift",
+        "price": "\u20b9250.0",
+        "description": "Batata Harra Burger + Regular Fries + Regular Green Apple+Surprise Gift",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Toy",
+        "price": "\u20b999.0",
+        "description": "Bring the excitement of day to your child\u2019s playtime with vibrant Toys",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Burger Buddies Box With Surprise Gift",
+        "price": "\u20b9270.0",
+        "description": "Bhuna Mediterranean Burger + Regular Fries + Regular Green Apple+Surprise Gift",
+        "rating": "3.4"
+    },
+    {
+        "name": "Yummy Kiddo Combo With Surprise Gift",
+        "price": "\u20b9250.0",
+        "description": "Egg Special Burger + Regular Fries + Regular Orange Cascade+Surprise Gift",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Pizza Puff Paradise Box With Surprise Gift",
+        "price": "\u20b9280.0",
+        "description": "Pizza Puff (1 Pc) + Onion Rings (6 Pcs) + Regular Mango Drink+Surprise Gift",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Little Fry & Strips Box With Surprise Gift",
+        "price": "\u20b9365.0",
+        "description": "Chicken Strips (4 Pcs) + Regular Fries + Regular Mango Drink+Surprise Gift",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Cheese Burger",
+        "price": "\u20b9179.0",
+        "description": "No description",
+        "rating": "4.7"
+    },
+    {
+        "name": "Chicken Royale Burger",
+        "price": "\u20b9214.0",
+        "description": "No description",
+        "rating": "4.1"
+    },
+    {
+        "name": "Crispy Chicken Burger",
+        "price": "\u20b9193.0",
+        "description": "No description",
+        "rating": "4.2"
+    },
+    {
+        "name": "Crispy Peri-peri Burger",
+        "price": "\u20b9166.0",
+        "description": "No description",
+        "rating": "3.2"
+    },
+    {
+        "name": "Egg Burger + Small Fries + Drink (regular)",
+        "price": "\u20b9196.0",
+        "description": "No description",
+        "rating": "4.9"
+    },
+    {
+        "name": "Onion Rings 12 Pcs",
+        "price": "\u20b9217.0",
+        "description": "No description",
+        "rating": "3.7"
+    },
+    {
+        "name": "Rock Star Burger",
+        "price": "\u20b9205.0",
+        "description": "No description",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Spicy Veggie Burger",
+        "price": "\u20b9160.0",
+        "description": "No description",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Spinach Corn Burger",
+        "price": "\u20b9181.0",
+        "description": "No description",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Tandoori Wrap @129",
+        "price": "\u20b9201.0",
+        "description": "No description",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Turkish Zesty Chicken Burger",
+        "price": "\u20b9202.0",
+        "description": "No description",
+        "rating": "No Rating"
+    },
+    {
+        "name": "Vanilla Cold Coffee (regular)",
+        "price": "\u20b9178.0",
+        "description": "No description",
+        "rating": "3.8"
+    },
+    {
+        "name": "Rockstar Wrap.",
+        "price": "\u20b9205.0",
+        "description": "Utterly Different Fusion Patty Wrap Made From Spicy Lemon And Premium Indian Spices Topped With Our Signature\u00a0Mayonnaise.",
+        "rating": "3.2"
+    }
+]

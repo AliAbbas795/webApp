@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+     
+      <h2>Swiggy Menu</h2>
+
+      <button id="ViewCart" onclick="viewCart()">View Cart</button>
+    </header>
+    <main>
+      <div id="FetchRestaurant">
+        <h3>Enter The name of the restaurant for Menu</h3>
+        <p>
+            It doesnt matter which restaurant's name you type it will fetch data
+            from only predefined restaurant Id because right now if i scrape web
+            pages from swiggy in bulk it will block me , i'd rather have to use a
+            proxy server for that.
+        </p>
+        <input type="text" id="fname" name="fname" /><br /><br />
+        
+        <button onclick="getMenu()">Get Menu</button>
+        
+      </div>
+
+      <div class="menu-container" id="menuContainer">
+        <!-- Menu items will be displayed here -->
+      </div>
+    </main>
+    <footer>
+        <h1  id = "centerMe"><p>&copy; an Ali Abbas production</p></h1>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+#ViewCart{
+    background-color: #ffac14; /* Orange background */
+    color: white; /* White text */
+    font-size: 18px; /* Bigger text */
+    padding: 12px 24px; /* Adjust padding for size */
+    border: none; /* Remove default border */
+    border-radius: 17px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-weight: bold; /* Make text bold */
+     transition: background 1s ease; /*Smooth hover effect */
+}
+
